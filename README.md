@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Skye Finley
+- 👋 Hi, I’m Skye Finley
 - 👀 I’m interested in ... UX/UI Design and Software Development
 - 🌱 I’m currently learning ... SQL, CSS, Javascript, and HTML
 - 📫 How to reach me ... sfinley@icstars.org
